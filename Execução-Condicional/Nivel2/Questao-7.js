@@ -1,0 +1,1 @@
+/*Converter o dia da semana (string) em um valor numérico (“domingo” -> 0, “segunda” -> 1, etc.)*/

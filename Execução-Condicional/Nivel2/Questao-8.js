@@ -1,0 +1,1 @@
+/*Converter texto em um número inteiro (“um” -> 1, “dois” -> 2, até o número “cinco”)*/

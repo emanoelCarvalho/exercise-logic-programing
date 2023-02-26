@@ -1,0 +1,1 @@
+/*Dados quatro notas, computar e classificar o valor da média das notas de um  estudante como aprovado (> 6), reprovado (< 4) e recuperação (caso contrário);*/

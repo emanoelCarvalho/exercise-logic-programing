@@ -1,0 +1,1 @@
+/*Traduzir os pronomes (I, you, he, she, it, we e they) do Inglês para o Português;*/

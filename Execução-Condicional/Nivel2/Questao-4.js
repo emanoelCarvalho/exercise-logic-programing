@@ -1,0 +1,1 @@
+/*Dada a temperatura, classificá-la como fria (< 15), quente (> 30) e normal (caso contrário);*/

@@ -1,0 +1,1 @@
+/*Dado o dia da semana, imprime as aulas que os estudantes do primeiro semestre terão no dia;*/
