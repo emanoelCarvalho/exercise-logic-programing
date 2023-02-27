@@ -1,0 +1,1 @@
+/*Computar o resto da divisão de dois números sem utilizar o operador %;*/

@@ -1,0 +1,1 @@
+/*Imprimir os 10 primeiros números ímpares;*/
