@@ -1,0 +1,1 @@
+// Receber três números como parâmetros e imprimir aqueles que são múltiplos de 2 e de 3 ao mesmo tempo;
