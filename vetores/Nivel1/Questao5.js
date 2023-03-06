@@ -1,0 +1,1 @@
+// Implementar um subprograma que retorna a quantidade de elementos pares em um vetor
