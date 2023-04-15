@@ -29,11 +29,11 @@ function maiorSomaArraysBi(array1, array2) {
 }
 
 const array1 = [
-    [6,6,6,6]
+    [7, 7, 7, 7]
 ]
 
 const array2 = [
-    [1,1,1,1]
+    [6, 6, 6, 6]
 ]
 
 let res = maiorSomaArraysBi(array1, array2);

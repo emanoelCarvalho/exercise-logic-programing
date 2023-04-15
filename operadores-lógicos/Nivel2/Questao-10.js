@@ -2,19 +2,14 @@
 
 let numero1 = 8;
 let numero2 = 7;
-let numero3 = 6;
+let numero3 = 61;
 
-let contador = 0;
-
-
-if (numero1 % 2 === 0) {
-    contador++;
+if (numero1 % 2 == 0 && numero2 % 2 != 0 && numero3 % 2 != 0) {
+    console.log(numero1, true);
+} else if (numero1 % 2 != 0 && numero2 % 2 == 0 && numero3 % 2 != 0) {
+    console.log(numero2, true);
+}   else if (numero1 % 2 != 0 && numero2 % 2 != 0 && numero3 % 2 == 0) {
+    console.log(numero3, true);
+} else {
+    console.log(false);
 }
-if (numero2 % 2 === 0) {
-    contador++;
-} 
-if (numero3 % 2 === 0) {
-    contador++;
-}
-
-contador === 1 ? console.log('V') : console.log('F');
