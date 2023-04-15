@@ -4,8 +4,6 @@
 let numero1  =  10;
 let numero2  =  3;
 
-let div = 0;
-
 for (let i = 0; i <= numero1; i++ ) {
     numero1 -= numero2;
 }
