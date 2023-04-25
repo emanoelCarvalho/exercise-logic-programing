@@ -3,3 +3,6 @@
 
 Este repositório, foi criado para mostrar, minha evolução em lógica de programação!
 Trabalhei com NodeJs!
+
+Trabalho realizado com full processo de lógica de programação!!
+
