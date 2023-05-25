@@ -1,6 +1,6 @@
 # Resolução das Questões de Lógica de Programação - Semestre 2022.2
 
-Este repositório contém a resolução das questões de lógica de programação referentes ao semestre 2022.2 da disciplina XYZ, onde fui monitor. As soluções foram implementadas utilizando a linguagem JavaScript.
+Este repositório contém a resolução das questões de lógica de programação referentes ao semestre 2022.2, onde fui monitor. As soluções foram implementadas utilizando a linguagem JavaScript.
 
 # Descrição do Repositório
 
