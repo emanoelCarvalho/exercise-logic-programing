@@ -12,6 +12,8 @@ O objetivo deste repositório é fornecer um material de referência para estuda
 
 # O repositório está organizado da seguinte forma:
 
+
+
 ├── Tópico 1
 │   ├── Questão 1.js
 │   ├── Questão 2.js
@@ -25,6 +27,8 @@ O objetivo deste repositório é fornecer um material de referência para estuda
 │   ├── Questão 2.js
 │   └── ...
 ├── ...
+
+
 
 Dentro de cada pasta de tópico, você encontrará os arquivos individuais para cada questão resolvida. Cada arquivo contém a implementação da solução em JavaScript e pode ser executado separadamente.
 
