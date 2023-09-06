@@ -2,6 +2,24 @@
 
 Este repositório contém a resolução das questões de lógica de programação referentes ao semestre 2022.2, onde fui monitor. As soluções foram implementadas utilizando as linguagens JavaScript e Python.
 
+# Observação para os Alunos
+
+Caros estudantes,
+
+Este repositório contém as soluções para as questões de lógica de programação referentes ao semestre 2022.2, onde fui monitor. Gostaríamos de enfatizar que as soluções fornecidas aqui são destinadas a ser uma ferramenta de consulta e aprendizado, e não devem substituir o seu esforço individual na compreensão e resolução das questões.
+
+É fundamental que vocês tentem resolver as questões por conta própria antes de consultar as soluções. O processo de tentativa e erro, a pesquisa e a resolução de problemas são partes essenciais do desenvolvimento de suas habilidades em lógica de programação. Utilizem este repositório como uma referência para verificar e comparar suas soluções após terem feito um esforço genuíno para resolvê-las.
+
+Lembramos que a aprendizagem é um processo ativo e a prática constante é fundamental para o seu sucesso. Utilizem estas soluções como um recurso para esclarecer dúvidas, aprender novas abordagens e melhorar suas habilidades de programação.
+
+Se tiverem alguma dúvida ou precisarem de assistência adicional, não hesitem em entrar em contato. Estamos aqui para ajudar e apoiar o seu aprendizado.
+
+Desejamos a todos um semestre produtivo e cheio de aprendizado!
+
+Atenciosamente,
+
+Emanoel Carvalho.
+
 # Descrição do Repositório
 
 Neste repositório, você encontrará um conjunto de arquivos que contêm as soluções para as questões de lógica de programação propostas durante o semestre. As questões estão organizadas em pastas, sendo que cada pasta representa um tópico ou uma lista de exercícios específica.
