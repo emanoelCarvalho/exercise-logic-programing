@@ -2,15 +2,15 @@
 // de elementos ímpares em um array de duas dimensões;
 
 function quantidadeDeElementosImpares(array) {
-    let contador = 0;
-    for (let i = 0; i < array.length; i++) {
-        for (let j = 0; j < array[i].length; j++) {
-            if (array[i][j] % 2 != 0 ) {
-                contador++;
+    let contador = 0; //variavel que armazena a quantidade de elementos impares
+    for (let i = 0; i < array.length; i++) { //percorre as linhas
+        for (let j = 0; j < array[i].length; j++) { //percorre as colunas
+            if (array[i][j] % 2 != 0 ) { //verifica se o elemento é impar
+                contador++;     //incrementa o contador
             }
         }
     }
-    return contador;
+    return contador;    //retorna o valor
 }
 
 const array = [
@@ -18,6 +18,6 @@ const array = [
     [1,2,3],
     [1,2,3],
     [1,2,3]
-];
+]; //array bidimensional
 
-console.log(quantidadeDeElementosImpares(array));
+console.log(quantidadeDeElementosImpares(array)); //chama a função e imprime o retorno
