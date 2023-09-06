@@ -10,26 +10,6 @@ O objetivo deste repositório é fornecer um material de referência para estuda
 
 # Organização do Repositório
 
-# O repositório está organizado da seguinte forma:
-
-
-
-Claro, vou ajudar a reformular o README com base na estrutura de diretórios que você descreveu:
-
-markdown
-Copy code
-# Resolução das Questões de Lógica de Programação - Semestre 2022.2
-
-Este repositório contém a resolução das questões de lógica de programação referentes ao semestre 2022.2, onde fui monitor. As soluções foram implementadas utilizando as linguagens JavaScript e Python.
-
-# Descrição do Repositório
-
-Neste repositório, você encontrará um conjunto de arquivos que contêm as soluções para as questões de lógica de programação propostas durante o semestre. As questões estão organizadas em pastas, sendo que cada pasta representa um tópico ou uma lista de exercícios específica.
-
-O objetivo deste repositório é fornecer um material de referência para estudantes da disciplina lógica de programação e estrutura de dados, permitindo que eles consultem as soluções implementadas em JavaScript e Python para as questões propostas. As soluções são fornecidas como uma forma de auxílio e aprendizado, podendo ser utilizadas como base para o desenvolvimento de soluções próprias.
-
-# Organização do Repositório
-
 O repositório está organizado da seguinte forma:
 
 ├── src
