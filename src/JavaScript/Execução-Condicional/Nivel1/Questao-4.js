@@ -1,21 +1,24 @@
 /*Testar se um número é divisível por 2 ou por 7 (tente fazer usando apenas if’s); */
 
+// Declarando a variável 'numero' com o valor 53.
 let numero = 53;
-let contador = 0;
-/*Declarei as variáveis, número e contador*/
 
+// Declarando a variável 'contador' com o valor inicial 0.
+let contador = 0;
+
+// Verificando se 'numero' é divisível por 2 e, se for, incrementando 'contador'.
 if (numero % 2 === 0) {
     contador++;
 }
+
+// Verificando se 'numero' é divisível por 7 e, se for, incrementando 'contador'.
 if (numero % 7 === 0) {
     contador++;
 }
-/*Fiz duas condicionais para testar se o número é divisível, caso seja contado incrementa.*/
 
-
+// Verificando se 'contador' é maior ou igual a 1 para determinar se o número é divisível por 2 ou por 7.
 if (contador >= 1) {
     console.log(true);
 } else {
     console.log(false);
 }
-/*Fiz uma condicional, para testar se  o contador é '>= 1', caso seja, o número é divisível por 2 ou por 7, caso contrári não é'*/

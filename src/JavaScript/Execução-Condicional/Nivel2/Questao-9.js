@@ -1,35 +1,35 @@
 /*Traduzir os pronomes (I, you, he, she, it, we e they) do Inglês para o Português;*/
 
+// Defina o texto que você deseja traduzir (pronomes em inglês).
 let pronomes = 'you';
+
+// Declare uma variável para armazenar a tradução.
 let tradutor;
 
-/*Declarei as variáveis*/
-
+// Use uma estrutura switch-case para lidar com diferentes pronomes.
 switch (pronomes) {
     case 'I':
-        tradutor = 'Eu';
-        break;
+        tradutor = 'Eu'; // Se 'pronomes' for igual a 'I', atribua 'Eu' a 'tradutor'.
+        break; // Encerra o caso 'I'.
     case 'you':
-        tradutor = 'Você';
-        break;
+        tradutor = 'Você'; // Se 'pronomes' for igual a 'you', atribua 'Você' a 'tradutor'.
+        break; // Encerra o caso 'you'.
     case 'he':
-        tradutor = 'Ele';
-        break;
+        tradutor = 'Ele'; // Se 'pronomes' for igual a 'he', atribua 'Ele' a 'tradutor'.
+        break; // Encerra o caso 'he'.
     case 'she':
-        tradutor = 'Ela';
-        break;
+        tradutor = 'Ela'; // Se 'pronomes' for igual a 'she', atribua 'Ela' a 'tradutor'.
+        break; // Encerra o caso 'she'.
     case 'it':
-        tradutor = 'Ele/Ela';
-        break;
+        tradutor = 'Ele/Ela'; // Se 'pronomes' for igual a 'it', atribua 'Ele/Ela' a 'tradutor'.
+        break; // Encerra o caso 'it'.
     case 'we':
-        tradutor = 'Nós';
-        break;
+        tradutor = 'Nós'; // Se 'pronomes' for igual a 'we', atribua 'Nós' a 'tradutor'.
+        break; // Encerra o caso 'we'.
     case 'they':
-        tradutor = 'Eles/Elas';
-        break;
+        tradutor = 'Eles/Elas'; // Se 'pronomes' for igual a 'they', atribua 'Eles/Elas' a 'tradutor'.
+        break; // Encerra o caso 'they'.
 }
-/*Utilizei swicth case, pois, me ajuda a ter uma visualização melhor do código*/
 
+// Imprima a tradução resultante no console.
 console.log(tradutor);
-
-/*Chamei o console, para imprimir*/

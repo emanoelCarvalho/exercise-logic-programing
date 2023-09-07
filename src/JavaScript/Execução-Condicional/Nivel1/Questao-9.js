@@ -1,13 +1,14 @@
  /* Dado dois números,  imprimir em ordem decrescente; */
 
- let numero1 = 3;
+// Declarando duas variáveis 'numero1' e 'numero2' com valores 3 e 4, respectivamente.
+let numero1 = 3;
 let numero2 = 4;
 
+// Declarando as variáveis 'maior' e 'menor' para armazenar os resultados.
 let maior;
 let menor;
 
-/*Declarei as variáveis*/
-
+// Usando uma estrutura condicional para determinar qual número é menor ou igual e qual é maior.
 if (numero1 <= numero2) {
     menor = numero1;
     maior = numero2;
@@ -15,8 +16,6 @@ if (numero1 <= numero2) {
     menor = numero2;
     maior = numero1;
 }
-/*Fiz uma condicional, para caso um numero for menor ou igual, ele atribui a variável menor, enquanto o outro, atribui a maior. Caso contrário a mesma coisa*/
 
+// Imprimindo os números em ordem crescente (do menor para o maior).
 console.log(menor, maior);
-
-/*Chamei o console, para imprimir, do maior para o menor*/

@@ -1,15 +1,16 @@
 /*Dados três números quaisquer, imprimi-los em ordem decrescente;*/
 
+// Declarando três variáveis 'numero1', 'numero2' e 'numero3' com valores 1, 1 e 1, respectivamente.
 let numero1 = 1;
 let numero2 = 1;
 let numero3 = 1;
 
+// Declarando as variáveis 'maior', 'meio' e 'menor' para armazenar os resultados.
 let maior;
 let meio;
 let menor;
 
-/*Declarei as varáveis que utilizarei*/
-
+// Utilizando estruturas condicionais para determinar qual número é o maior, o do meio e o menor.
 if (numero1 >= numero2 && numero1 >= numero3) {
     maior = numero1;
 
@@ -41,7 +42,6 @@ if (numero1 >= numero2 && numero1 >= numero3) {
         menor = numero1;
     }
 }
-/*Declarei a condicional, para cada caso*/
 
-console.log(menor, meio, maior);
-/*Chamei o console.log(), para imprimir os números*/
+// Imprimindo os números em ordem decrescente.
+console.log(maior, meio, menor);

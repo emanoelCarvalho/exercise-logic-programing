@@ -1,9 +1,9 @@
 /*Converter o dia da semana (string) em um valor numérico (“domingo” -> 0, “segunda” -> 1, etc.)*/
 
+// Declarando uma variável 'dia' com o valor 'Segunda' (ou qualquer outro dia da semana que você queira converter).
 let dia = 'Segunda';
 
-/*Declarei uma variável dia*/
-
+// Utilizando a estrutura de controle switch para converter o dia da semana em um valor numérico.
 switch (dia) {
     case 'Domingo':
         dia = 0;
@@ -27,7 +27,6 @@ switch (dia) {
         dia = 6;
         break;
 }
-/*Utilizei swicth case, pois, me ajuda a ter uma visualização melhor do código*/
 
+// Imprimindo o valor numérico correspondente ao dia da semana.
 console.log(dia);
-/*Chamei o console, para imprimir o valor do dia da semana*/

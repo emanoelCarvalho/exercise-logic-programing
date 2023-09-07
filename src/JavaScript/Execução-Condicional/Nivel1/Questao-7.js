@@ -1,15 +1,15 @@
 /* Dividir a por b e verificar se o resultado é maior do que a;*/
 
+// Declarando duas variáveis 'a' e 'b' com valores 2 e 10, respectivamente.
 let a = 2;
 let b = 10;
 
+// Realizando a divisão de 'b' por 'a' e armazenando o resultado em 'dividir'.
 let dividir = b / a;
 
-/*Declarei as variáveis */ 
-
+// Verificando se o resultado da divisão é maior do que 'a'.
 if (dividir > a) {
     console.log('É maior que a', a);
 } else {
     console.log('Não é maior que', a);
 }
-/*Fiz essa condicional, que se dividir for maior que 'a', ele iprime, "'É maior que a', a" caso contrário : "'Não é maior que', a"*/

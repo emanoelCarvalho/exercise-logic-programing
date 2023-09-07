@@ -3,28 +3,21 @@
 let nome = 'Placido';
 let sobrenome;
 
-/*Declarei as variáveis*/
-
+// Use uma estrutura switch-case para lidar com diferentes nomes e atribuir o sobrenome correspondente.
 switch (nome) {
     case 'Emanoel':
-        sobrenome = nome + ' Carvalho';
-        break;
-
+        sobrenome = nome + ' Carvalho'; // Se 'nome' for igual a 'Emanoel', atribui 'Emanoel Carvalho' a 'sobrenome'.
+        break; // Encerra o caso 'Emanoel'.
     case 'Cleiton':
-        sobrenome = nome + ' Lucas';
-        break;
-
+        sobrenome = nome + ' Lucas'; // Se 'nome' for igual a 'Cleiton', atribui 'Cleiton Lucas' a 'sobrenome'.
+        break; // Encerra o caso 'Cleiton'.
     case 'Placido':
-        sobrenome = nome + ' Lima';
-        break;
-
+        sobrenome = nome + ' Lima'; // Se 'nome' for igual a 'Placido', atribui 'Placido Lima' a 'sobrenome'.
+        break; // Encerra o caso 'Placido'.
     case 'Alef':
-        sobrenome = nome + ' Thiago';
-        break;
+        sobrenome = nome + ' Thiago'; // Se 'nome' for igual a 'Alef', atribui 'Alef Thiago' a 'sobrenome'.
+        break; // Encerra o caso 'Alef'.
 }
 
-/*Utilizei o switch case, para realizar as condicionais*/
-
+// Imprime o sobrenome resultante no console.
 console.log(sobrenome);
-
-/*Chamei o console, para imprimir o resultado*/
