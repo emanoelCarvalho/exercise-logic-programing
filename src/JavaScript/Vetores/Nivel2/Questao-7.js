@@ -3,13 +3,14 @@
 //  false, caso contrário
 
 function contarVerdadeirosDoVetor(array) {
+    // Loop para percorrer todos os elementos do vetor.
     for (let i = 0; i < array.length; i++) {
-        if (array[i] === true) {
-            return true;
+        if (array[i] === true) { // Verifica se o elemento atual é verdadeiro.
+            return true; // Retorna true assim que encontrar um elemento verdadeiro.
         }
     }
-    return false
+    return false; // Retorna false se nenhum elemento verdadeiro for encontrado.
 }
 
-let array = [false, false, false];
-console.log(contarVerdadeirosDoVetor(array));
+const array = [false, false, false]; // Exemplo de vetor de booleanos.
+console.log(contarVerdadeirosDoVetor(array)); // Chamada da função e impressão do resultado no console.

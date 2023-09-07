@@ -2,7 +2,7 @@
 // computa a média dos seus elementos e 
 // retorna quantos elementos acima da média ele possui
 
-
+// Função para calcular a média dos elementos de um vetor
 function mediaVetor(array) {
     let sum = 0;
     let media;
@@ -14,6 +14,7 @@ function mediaVetor(array) {
     return media;
 }
 
+// Função para contar quantos elementos estão acima da média
 function elementoAcimaDaMedia(array) {
     let media1 = mediaVetor(array);
     let contador = 0;
@@ -23,6 +24,7 @@ function elementoAcimaDaMedia(array) {
             contador++;
         }
     }
-    return contador
+    return contador;
 }
-console.log(elementoAcimaDaMedia([6,5,4,5]));
+
+console.log(elementoAcimaDaMedia([6, 5, 4, 5]));
