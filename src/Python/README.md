@@ -67,3 +67,9 @@ Este repositório está licenciado sob a licença MIT. Consulte o arquivo LICENS
 Se você tiver alguma dúvida ou precisar entrar em contato, sinta-se à vontade para enviar um e-mail para [seu-email@gmail.com](mailto:hemanoel718@gmail.com).
 
 Espero que essas resoluções sejam úteis para você.
+
+## LinkedIn
+
+Você pode me encontrar no LinkedIn em [Emanoel Carvalho](https://www.linkedin.com/in/emanoelcarvalho/).
+
+Espero que essas resoluções sejam úteis para você.
