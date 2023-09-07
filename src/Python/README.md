@@ -36,7 +36,7 @@ Para utilizar as soluções, você precisará de um ambiente de execução Pytho
 
 Clone este repositório em sua máquina local usando o seguinte comando:
 
-git clone https://github.com/seu-usuario/exercise-logic-programing.git
+git clone https://github.com/emanoelCarvalho/exercise-logic-programing.git
 
 
 Navegue até a pasta do repositório:
