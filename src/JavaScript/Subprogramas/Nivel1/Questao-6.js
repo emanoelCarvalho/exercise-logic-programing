@@ -1,8 +1,11 @@
 // Computar e retornar o valor de f(x) na seguinte função matemática: f(x) = x³ - 4x + 1;
 
-function funçaoMatematica(x) {
-    let equaçao = x ** 3  - 4 * x + 1;
-    return equaçao;
+// Função para calcular o valor de f(x) = x³ - 4x + 1
+function funcaoMatematica(x) {
+    let equacao = x ** 3 - 4 * x + 1;
+    return equacao;
 }
 
-console.log(funçaoMatematica(3));
+// Chamada da função com um valor de exemplo
+let resultado = funcaoMatematica(3);
+console.log("O resultado da função f(x) é:", resultado);

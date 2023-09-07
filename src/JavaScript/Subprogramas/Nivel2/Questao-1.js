@@ -1,5 +1,6 @@
 // Receber três números como parâmetros e imprimir aqueles que são múltiplos de 2 e de 3 ao mesmo tempo;
 
+// Função para imprimir números que são múltiplos de 2 e de 3
 function multiplosDeDoisETres(numero1, numero2, numero3) {
     if (numero1 % 2 === 0 && numero1 % 3 === 0) {
         console.log(numero1);
@@ -12,4 +13,6 @@ function multiplosDeDoisETres(numero1, numero2, numero3) {
     }
 }
 
-multiplosDeDoisETres(1,1,1);
+// Chamada da função com valores de exemplo
+multiplosDeDoisETres(1, 1, 1);
+ 
