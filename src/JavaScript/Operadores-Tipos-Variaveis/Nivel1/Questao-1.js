@@ -1,7 +1,10 @@
 /*Imprimir o perímetro de um triângulo equilátero (3 vezes aresta);*/
 
-let aresta = 3; /*Declarei variável aresta.*/
+// Tamanho da aresta de um triângulo equilátero
+let aresta = 3;
 
-let perimetro = aresta * 3; /*Declarei variável perimetro, onde farei a operação.*/
+// Cálculo do perímetro (3 vezes a aresta)
+let perimetro = 3 * aresta;
 
-console.log(perimetro); /*Chamei a função console.log(), para imprimir a variável perimetro.*/
+// Imprime o perímetro do triângulo equilátero
+console.log("O perímetro do triângulo equilátero é:", perimetro);

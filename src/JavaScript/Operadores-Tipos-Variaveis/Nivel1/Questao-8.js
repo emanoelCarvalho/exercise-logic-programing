@@ -1,8 +1,10 @@
 /*Solucionar a equação: f(x) = x³ + x² + 3x - 25, para uma valor determinado de x*/
 
-let x = 3; /*Declarei o valor de 'x'*/
+// Valor de x
+let x = 3;
 
-let equaçao = x ** 3 + x ** 2 + 3 * x - 25;  /*Declarei a variável 'equaçao' onde substituí, a exponenciação pelo operado '**', 
-para elevar a potência*/
+// Cálculo da equação
+let equacao = x ** 3 + x ** 2 + 3 * x - 25;
 
-console.log(equaçao);  /* Declarei o console.log(), para imprimir o resultado.*/
+// Imprime o resultado da equação
+console.log("O resultado da equação f(x) =", equacao);

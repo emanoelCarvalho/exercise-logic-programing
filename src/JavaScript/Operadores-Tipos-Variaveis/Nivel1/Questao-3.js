@@ -1,10 +1,13 @@
 /*Imprimir o perímetro de um retângulo (soma dos seus quatro lados); */
 
+// Tamanhos dos lados de um retângulo
 let lado1 = 5;
 let lado2 = 3;
-let lado3 = 5; 
-let lado4 = 3; /*Declarei as variáveis lado.*/ 
+let lado3 = 5;
+let lado4 = 3;
 
-let perimetro = lado1 + lado2 + lado3 + lado4; /*Declarei variável perimetro, onde farei a operação.*/
+// Cálculo do perímetro (soma dos quatro lados)
+let perimetro = lado1 + lado2 + lado3 + lado4;
 
-console.log(perimetro); /*Chamei a função console.log(), para imprimir a variável perimetro.*/
+// Imprime o perímetro do retângulo
+console.log("O perímetro do retângulo é:", perimetro);

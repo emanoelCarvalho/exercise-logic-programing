@@ -1,7 +1,11 @@
 /*Imprimir o perímetro de um quadrado (4 vezes aresta);*/
 
-let aresta = 4; /*Declarei variável aresta.*/
 
-let perimetro = aresta * 4;  /*Declarei variável perimetro, onde farei a operação.*/
+// Tamanho da aresta de um quadrado
+let aresta = 4;
 
-console.log(perimetro); /*Chamei a função console.log(), para imprimir a variável perimetro.*/
+// Cálculo do perímetro (4 vezes a aresta)
+let perimetro = 4 * aresta;
+
+// Imprime o perímetro do quadrado
+console.log("O perímetro do quadrado é:", perimetro);

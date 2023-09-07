@@ -1,12 +1,13 @@
 /*Imprimir o volume de uma caixa (base vezes altura vezes profundidade);*/
 
 
+// Dimensões da caixa (base, altura e profundidade)
 let base = 5;
 let altura = 10;
-let profundidade = 2; /*Declarei o valor da base, altura e profundidade da caixa*/
+let profundidade = 2;
 
-let volume = base * altura * profundidade; /* Calculei o volume da caixa*/
+// Cálculo do volume da caixa (base vezes altura vezes profundidade)
+let volume = base * altura * profundidade;
 
-
-console.log( volume); /*Imprimi, o volume, através do console*/ 
-
+// Imprime o volume da caixa
+console.log("O volume da caixa é:", volume);

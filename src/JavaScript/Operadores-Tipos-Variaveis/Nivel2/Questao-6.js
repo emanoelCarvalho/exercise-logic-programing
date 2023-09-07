@@ -1,15 +1,16 @@
 /*Imprimir o volume de um cilindro (área da base vezes a altura);*/
 
-
+// Raio da base do cilindro
 let raio = 5;
-let altura = 10; /*Declarei a variável  altura e raio*/
 
+// Altura do cilindro
+let altura = 10;
 
-let areaBase = 3.14159 * raio * raio; /* Calculei a área da base do cilindro */
+// Cálculo da área da base do cilindro (área do círculo)
+let areaBase = Math.PI * raio * raio;
 
+// Cálculo do volume do cilindro (área da base vezes a altura)
+let volume = areaBase * altura;
 
-
-let volume = areaBase * altura; /*Declarei a variável, volume */
-
-
-console.log(volume); /* Imprimi, o valor da variável, através do console*/
+// Imprime o volume do cilindro
+console.log("O volume do cilindro é:", volume);

@@ -1,9 +1,12 @@
 /*Solucionar a equação: f(x, z) = x³ + z² + 3xz - 25;*/
 
+// Valores de x e z
 let x = 2;
+let z = 3;
 
-let z = 3; /*Declarei os valores de X e Z */
+// Cálculo da equação de segundo grau
+let equacaoSegundoGrau = x ** 3 + z ** 2 + 3 * x * z - 25;
 
-let equaçaoSegundoGrau = x ** 3 + z ** 2 + 3 * x * z - 25;  /*Declarei a variável, e utilizei o operador '**', para elevar a potência*/
-
-console.log(equaçaoSegundoGrau); /*Chamei o console, para imprimir a variável*/
+// Imprime o resultado da equação
+console.log("O resultado da equação f(x, z) =", equacaoSegundoGrau);
+ 

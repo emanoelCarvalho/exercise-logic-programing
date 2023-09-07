@@ -1,9 +1,13 @@
 /*Imprimir perímetro de um círculo (2 vezes PI vezes raio);*/
 
+// Valor de PI (usando a biblioteca Math)
 let PI = Math.PI;
 
-let raio = 3; /* Declarei as variáveis ;  Perímetro, raio e Pi(A qual usei a biblioteca 'Math.Pi', para pegar o valor de PI)*/
+// Raio do círculo
+let raio = 3;
 
-let perimetro = (2 * PI) * raio;  /* Declarei a variável perímetro*/
+// Cálculo do perímetro do círculo
+let perimetro = 2 * PI * raio;
 
-console.log(perimetro); /*Chamei o console, para imprimir a variável*/
+// Imprime o perímetro do círculo
+console.log("O perímetro do círculo é:", perimetro);
