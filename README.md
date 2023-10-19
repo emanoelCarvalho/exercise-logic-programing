@@ -30,28 +30,7 @@ O objetivo deste repositório é fornecer um material de referência para estuda
 
 O repositório está organizado da seguinte forma:
 
-├── src
-│ ├── JavaScript
-│ │ ├── Tópico 1
-│ │ │ ├── Questão 1.js
-│ │ │ ├── Questão 2.js
-│ │ │ └── ...
-│ │ ├── Tópico 2
-│ │ │ ├── Questão 1.js
-│ │ │ ├── Questão 2.js
-│ │ │ └── ...
-│ │ ├── ...
-│ ├── Python
-│ │ ├── Tópico 1
-│ │ │ ├── Questão 1.py
-│ │ │ ├── Questão 2.py
-│ │ │ └── ...
-│ │ ├── Tópico 2
-│ │ │ ├── Questão 1.py
-│ │ │ ├── Questão 2.py
-│ │ │ └── ...
-│ │ ├── ...
-
+<img src="./public/exemploREADME.png">
 
 Dentro de cada pasta de tópico, você encontrará os arquivos individuais para cada questão resolvida. Cada arquivo contém a implementação da solução em JavaScript e Python e pode ser executado separadamente.
 
