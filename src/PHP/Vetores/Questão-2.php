@@ -1,7 +1,8 @@
 <?php
 //Crie um subprograma que calcule a soma de todos os elementos em um vetor.
 
-function somaElementos($vetor) { 
+function somaElementos($vetor) 
+{ 
     $sum = 0; // Inicializa a soma com 0
     foreach ($vetor as $element) { // Percorre o vetor
         $sum += $element; // Soma o elemento atual ao valor da soma
