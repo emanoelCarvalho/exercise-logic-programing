@@ -16,17 +16,7 @@ Lembramos que a aprendizagem é um processo ativo e a prática constante é fund
 
 O repositório está organizado da seguinte forma:
 
-├── Python
-│ ├── Tópico 1
-│ │ ├── Questão 1.py
-│ │ ├── Questão 2.py
-│ │ └── ...
-│ ├── Tópico 2
-│ │ ├── Questão 1.py
-│ │ ├── Questão 2.py
-│ │ └── ...
-│ ├── ...
-
+<img src='/public/readme-py.png'>
 
 Dentro de cada pasta de tópico, você encontrará os arquivos individuais para cada questão resolvida. Cada arquivo contém a implementação da solução em Python.
 
