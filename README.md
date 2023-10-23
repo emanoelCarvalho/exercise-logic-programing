@@ -30,7 +30,7 @@ O objetivo deste repositório é fornecer um material de referência para estuda
 
 O repositório está organizado da seguinte forma:
 
-<img src="./public/exemploREADME.png">
+<img src="./public/readme-original.png">
 
 Dentro de cada pasta de tópico, você encontrará os arquivos individuais para cada questão resolvida. Cada arquivo contém a implementação da solução em JavaScript e Python e pode ser executado separadamente.
 
