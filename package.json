@@ -1,0 +1,12 @@
+{
+  "name": "exercise-logic-programing",
+  "version": "1.0.0",
+  "description": "Este repositório contém a resolução das questões de lógica de programação referentes ao semestre 2022.2, onde fui monitor. As soluções foram implementadas utilizando as linguagens JavaScript e Python.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
