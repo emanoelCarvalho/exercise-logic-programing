@@ -8,3 +8,5 @@ let perimetro = 3 * aresta;
 
 // Imprime o perímetro do triângulo equilátero
 console.log("O perímetro do triângulo equilátero é:", perimetro);
+
+module.exports = {aresta, perimetro};
