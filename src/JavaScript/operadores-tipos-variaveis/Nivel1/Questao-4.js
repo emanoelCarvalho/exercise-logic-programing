@@ -12,3 +12,5 @@ let perimetro = lado1 + lado2 + lado3 + lado4 + lado5;
 
 // Imprime o perímetro do pentágono
 console.log("O perímetro do pentágono é:", perimetro);
+
+module.exports = {perimetro, lado1, lado2, lado3, lado4, lado5};

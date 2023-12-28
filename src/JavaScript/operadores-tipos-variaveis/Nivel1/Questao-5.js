@@ -13,3 +13,5 @@ let perimetro = lado1 + lado2 + lado3 + lado4 + lado5 + lado6;
 
 // Imprime o perímetro do hexágono
 console.log("O perímetro do hexágono é:", perimetro);
+
+module.exports = {perimetro, lado1, lado2, lado3, lado4, lado5, lado6};

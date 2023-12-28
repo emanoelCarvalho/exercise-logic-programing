@@ -8,3 +8,5 @@ let equacao = x ** 3 + x ** 2 + 3 * x - 25;
 
 // Imprime o resultado da equação
 console.log("O resultado da equação f(x) =", equacao);
+
+module.exports = {x, equacao};

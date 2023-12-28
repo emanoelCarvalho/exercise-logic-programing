@@ -8,3 +8,5 @@ let horas = segundos / 3600;
 
 // Imprime o resultado da conversão
 console.log(horas + ' Hora');
+
+module.exports = {segundos, horas};

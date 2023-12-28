@@ -11,3 +11,5 @@ let perimetro = lado1 + lado2 + lado3 + lado4;
 
 // Imprime o perímetro do retângulo
 console.log("O perímetro do retângulo é:", perimetro);
+
+module.exports = {perimetro, lado1, lado2, lado3, lado4};
