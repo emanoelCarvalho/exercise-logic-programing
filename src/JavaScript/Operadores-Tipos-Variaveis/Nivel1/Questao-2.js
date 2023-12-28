@@ -9,3 +9,5 @@ let perimetro = 4 * aresta;
 
 // Imprime o perímetro do quadrado
 console.log("O perímetro do quadrado é:", perimetro);
+
+module.exports = { aresta, perimetro }; 
