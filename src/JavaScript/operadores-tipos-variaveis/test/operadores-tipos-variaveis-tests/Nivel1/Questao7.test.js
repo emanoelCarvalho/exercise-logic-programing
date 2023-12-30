@@ -1,4 +1,4 @@
-const { x, equacao } = require("../../Nivel1/Questao-7");
+const { x, equacao } = require("../../../Nivel1/Questao-7");
 
 test("Calcular a equação", () => {
     expect(x).toBe(2);

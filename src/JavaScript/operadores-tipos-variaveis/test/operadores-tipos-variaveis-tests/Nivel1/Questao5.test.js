@@ -1,4 +1,4 @@
-const { lado1, lado2, lado3, lado4, lado5, lado6, perimetro} = require("../../Nivel1/Questao-5");
+const { lado1, lado2, lado3, lado4, lado5, lado6, perimetro} = require("../../../Nivel1/Questao-5");
 
 test("Calcular o perímetro de um hexágono", () => {
     expect(lado1).toBe(6);

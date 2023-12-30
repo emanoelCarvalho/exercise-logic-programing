@@ -1,4 +1,4 @@
-const {lado1, lado2, lado3, lado4, perimetro} = require("../../Nivel1/Questao-3")
+const {lado1, lado2, lado3, lado4, perimetro} = require("../../../Nivel1/Questao-3")
 
 test("Calcular o perímetro de um retângulo", () => {
     expect(lado1).toBe(5);
