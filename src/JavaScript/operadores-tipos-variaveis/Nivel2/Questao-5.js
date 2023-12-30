@@ -10,3 +10,4 @@ let equacaoSegundoGrau = x ** 3 + z ** 2 + 3 * x * z - 25;
 // Imprime o resultado da equação
 console.log("O resultado da equação f(x, z) =", equacaoSegundoGrau);
  
+module.exports = { equacaoSegundoGrau, x, z };

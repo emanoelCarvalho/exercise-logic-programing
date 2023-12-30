@@ -9,3 +9,5 @@ let areaTriangulo = (base * altura) / 2;
 
 // Imprime a área do triângulo isósceles
 console.log("A área do triângulo isósceles é:", areaTriangulo);
+
+module.exports = { areaTriangulo, base, altura };

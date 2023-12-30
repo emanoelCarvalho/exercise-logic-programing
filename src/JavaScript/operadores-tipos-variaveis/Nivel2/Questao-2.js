@@ -18,3 +18,5 @@ let mediaPonderada = (numero1 * peso1 + numero2 * peso2 + numero3 * peso3 + nume
 // Imprime a média ponderada
 console.log("A média ponderada é:", mediaPonderada);
  
+
+module.exports = { mediaPonderada, numero1, numero2, numero3, numero4, peso1, peso2, peso3, peso4 };

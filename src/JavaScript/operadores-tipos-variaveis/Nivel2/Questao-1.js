@@ -13,3 +13,5 @@ let media = (numero1 + numero2 + numero3 + numero4 + numero5 + numero6) / 6;
 
 // Imprime a média
 console.log("A média dos números é:", media);
+
+module.exports = { media, numero1, numero2, numero3, numero4, numero5, numero6 };

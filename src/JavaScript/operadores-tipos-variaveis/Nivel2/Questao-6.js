@@ -14,3 +14,5 @@ let volume = areaBase * altura;
 
 // Imprime o volume do cilindro
 console.log("O volume do cilindro é:", volume);
+
+module.exports = { volume, raio, altura, areaBase };

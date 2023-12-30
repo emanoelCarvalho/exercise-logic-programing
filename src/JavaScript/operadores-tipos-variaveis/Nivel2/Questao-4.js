@@ -11,3 +11,5 @@ let perimetro = 2 * PI * raio;
 
 // Imprime o perímetro do círculo
 console.log("O perímetro do círculo é:", perimetro);
+
+module.exports = { perimetro, PI, raio };

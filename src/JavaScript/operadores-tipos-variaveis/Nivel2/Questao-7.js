@@ -11,3 +11,5 @@ let volume = base * altura * profundidade;
 
 // Imprime o volume da caixa
 console.log("O volume da caixa é:", volume);
+
+module.exports = { volume, base, altura, profundidade };

@@ -11,3 +11,5 @@ let imc = peso / (altura ** 2);
 
 // Imprime o valor do IMC
 console.log("O Índice de Massa Corporal (IMC) é:", imc);
+
+module.exports = { imc, peso, altura };
