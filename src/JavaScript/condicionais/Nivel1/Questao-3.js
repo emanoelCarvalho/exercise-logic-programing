@@ -1,7 +1,7 @@
 /*Testar se um número é divisível por 3 mas não por 4 (tente fazer usando apenas if’s);*/
 
 // Declarando a variável 'numero' com o valor 12.
-let numero = 12;
+let numero = 9;
 
 // Declarando a variável 'contador' com o valor inicial 0.
 let contador = 0;
